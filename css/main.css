@@ -54,6 +54,12 @@
         width: 40%;
         float: right;
     }
+    .column-title {
+        margin-bottom: 30px;
+    }
+    .column-description {
+        margin-bottom: 30px;
+    }
     .socials {
         display: inline-block;
         width: 100%;
