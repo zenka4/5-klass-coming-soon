@@ -9,6 +9,7 @@
         width: 600px;
         margin-left: calc((100% - 600px) / 2);
         text-align: center;
+        color: turquoise;
     }
     .hero-row > .logo {
         height: 55px;
